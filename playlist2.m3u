@@ -4,6 +4,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1729187656/ei/6
 #EXTINF:-1 tvg-id="" tvg-name="RRI Tolitoli" tvg-logo="https://scontent-cgk2-1.xx.fbcdn.net/v/t51.75761-15/463352761_18004403981654692_8216816810453606768_n.jpg?stp=dst-jpg_p843x403&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=gWVNSLKS7RAQ7kNvgHCydC8&_nc_zt=23&_nc_ht=scontent-cgk2-1.xx&_nc_gid=AobZVifKk6NPOGIxKy6nAIq&oh=00_AYDysrmuJPaNqQrZx4xE73i7O_j876VXUbAbwTV4jur8vg&oe=671678A1" group-title="LIVE DEBAT",RRI Tolitoli
 https://stream-node2.rri.co.id/streaming/24/9324/rritolitolipro1.mp3
 
+
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://th.bing.com/th/id/OIP.MraTRx7y0tdeLqNnhYqqawHaEt?w=860&h=547&rs=1&pid=ImgDetMain" group-title="LIVE DEBAT",TVRI Sulawesi Tengah
 https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng-avc1_1500000=10003-mp4a_96000_eng=20003.m3u8
 
