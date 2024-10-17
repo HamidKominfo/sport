@@ -1,19 +1,5 @@
-
-
-#EXTINF:-1 tvg-id="Kompas.id" tvg-name="Kompas" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_355.jpeg" group-title="News",Kompas
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1729171643/ei/W7wQZ_fzAoP_4-EPw-P06Ag/ip/104.28.249.187/id/1UFU9oTTV_w.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/54MbxTVM7o2zV-45YZusybMkZANtovp7scwhHKw8zInYYfF_77wReHd1JDD8Q63zDh8RVfbngdeS/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51300761%2C51312688/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgEuTAFZCwv1WknQsdO75lCfp9H3XSOzZAIe_LVaxweFkCIQDOKEGmCqHuspfwTNGTnyMXenZM_XHYz_e-QRAUENVMkA%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Local Channels" tvg-id="JTV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium4.xml" tvg-logo="https://static.mncnow.id/images/channel/9e658daa/252e_r32.jpg",JTV
-https://63b2dc7196c38.streamlock.net:1937/ch2/myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://klik.tvri.go.id/po-content/uploads/sulteng.png" group-title="TVRI Group",TVRI Sulawesi Tengah
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://th.bing.com/th/id/OIP.MraTRx7y0tdeLqNnhYqqawHaEt?w=860&h=547&rs=1&pid=ImgDetMain" group-title="LIVE DEBAT",TVRI Sulawesi Tengah
 https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng-avc1_1500000=10003-mp4a_96000_eng=20003.m3u8
 
-#EXTINF:1 tvg-id="Kompas.id" tvg-name="Kompas" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_355.jpeg" group-title="News",Kompas
-https://www.youtube.com/watch?v=DOOrIxw5xOw
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
-#EXTINF:-1 group-title="Sports" tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/954/49954-SNAPSHOT-l.png",Sportstars 2 HD
-https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+#EXTINF:-1 tvg-id="" tvg-name="RRI Tolitoli" tvg-logo="https://scontent-cgk2-1.xx.fbcdn.net/v/t51.75761-15/463352761_18004403981654692_8216816810453606768_n.jpg?stp=dst-jpg_p843x403&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=gWVNSLKS7RAQ7kNvgHCydC8&_nc_zt=23&_nc_ht=scontent-cgk2-1.xx&_nc_gid=AobZVifKk6NPOGIxKy6nAIq&oh=00_AYDysrmuJPaNqQrZx4xE73i7O_j876VXUbAbwTV4jur8vg&oe=671678A1" group-title="LIVE DEBAT",RRI Tolitoli
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1729171643/ei/W7wQZ_fzAoP_4-EPw-P06Ag/ip/104.28.249.187/id/1UFU9oTTV_w.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/54MbxTVM7o2zV-45YZusybMkZANtovp7scwhHKw8zInYYfF_77wReHd1JDD8Q63zDh8RVfbngdeS/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51300761%2C51312688/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgEuTAFZCwv1WknQsdO75lCfp9H3XSOzZAIe_LVaxweFkCIQDOKEGmCqHuspfwTNGTnyMXenZM_XHYz_e-QRAUENVMkA%3D%3D/file/index.m3u8
