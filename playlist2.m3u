@@ -1,7 +1,7 @@
 
 
 #EXTINF:-1 tvg-id="Kompas.id" tvg-name="Kompas" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_355.jpeg" group-title="News",Kompas
-https://www.youtube.com/watch?v=DOOrIxw5xOw
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1729171643/ei/W7wQZ_fzAoP_4-EPw-P06Ag/ip/104.28.249.187/id/1UFU9oTTV_w.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/54MbxTVM7o2zV-45YZusybMkZANtovp7scwhHKw8zInYYfF_77wReHd1JDD8Q63zDh8RVfbngdeS/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51300761%2C51312688/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgEuTAFZCwv1WknQsdO75lCfp9H3XSOzZAIe_LVaxweFkCIQDOKEGmCqHuspfwTNGTnyMXenZM_XHYz_e-QRAUENVMkA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Local Channels" tvg-id="JTV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium4.xml" tvg-logo="https://static.mncnow.id/images/channel/9e658daa/252e_r32.jpg",JTV
 https://63b2dc7196c38.streamlock.net:1937/ch2/myStream/playlist.m3u8
